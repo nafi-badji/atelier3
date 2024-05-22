@@ -1,0 +1,67 @@
+body{
+    background-color:  rgb(237, 237, 250);
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+.header{
+    text-align: center;
+    margin: 1em auto;
+}
+.green{
+    color: #009688;
+}
+.orange{
+    color: chocolate;
+}
+form{
+    margin: 0 auto;
+    width: 600px;
+}
+input{
+    width: 100%;
+    margin: 20px 0 0 0;
+    border: none;
+    border-bottom: 2px solid black;
+    min-height: 2rem;
+}
+.p1{
+    text-align: right;
+    color: #009688;
+}
+.etude{
+    color: #009688;
+}
+.ecole{
+    color: #009688;
+}
+.bouton{
+   background-color: #009688;
+   display: inline-block;
+   padding: 5px;
+   width: 100%;
+   color: white;
+   text-decoration: none;
+   text-align: center;
+   font-family: sans-serif;
+   border-radius: 4px;
+}
+#div{
+    text-align: center;
+}
+.google{
+    text-align: center;
+    gap: 20px; 
+}
+
+.google button{
+    width: 40%;
+    height: 40px;
+    border-radius: 5px;
+}
+.google img{
+    width: 10%; 
+
+}
